@@ -1,0 +1,1 @@
+Motorbike Kawasaki model: Ninja 636 details: Top speed 300 km/h price : 3000.0 euro
